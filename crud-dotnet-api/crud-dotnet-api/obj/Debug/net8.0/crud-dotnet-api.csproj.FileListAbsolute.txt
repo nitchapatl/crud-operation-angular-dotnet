@@ -128,9 +128,10 @@ D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotn
 D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.crud-dotnet-api.props
 D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\staticwebassets.pack.json
 D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\scopedcss\bundle\crud-dotnet-api.styles.css
-D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.csproj.CopyComplete
 D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.dll
 D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\refint\crud-dotnet-api.dll
 D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.pdb
 D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.genruntimeconfig.cache
 D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\ref\crud-dotnet-api.dll
+D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.sourcelink.json
+D:\Learn\CsharpAngularJS\crud-operation-angular-dotnet\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\crud-dot.9B522D7B.Up2Date
